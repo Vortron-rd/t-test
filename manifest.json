@@ -1,6 +1,6 @@
 {
 	"background_color": "#ffffff",
-	"description": "Classlink Github Service",
+	"description": "Classlink Github ServiceTEST",
 	"display": "fullscreen",
 	"icons": [
 		{
@@ -25,11 +25,11 @@
 		}
 	],
 	"manifest_version": 2,
-	"name": "ClasslinkGithub",
+	"name": "ClasslinkGithubTEST",
 	"orientation": "any",
 	"scope": "/",
-	"short_name": "ClasslinkGithub",
-	"start_url": "/T-Crack/",
+	"short_name": "ClasslinkGithubTEST",
+	"start_url": "/t-test/",
 	"theme_color": "#ffffff",
 	"offline_enabled": true
 	"version": "0.0.1"
